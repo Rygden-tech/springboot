@@ -1,13 +1,13 @@
-package in.elxsi.ravi;
+package com.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootAppApplication {
+public class SpringbootJenkinsSonarDemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootAppApplication.class, args);
+		SpringApplication.run(SpringbootJenkinsSonarDemoApplication.class, args);
 	}
 
 }
